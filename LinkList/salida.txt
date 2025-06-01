@@ -1,0 +1,115 @@
+-----LISTADO: 0
+-----
+INTRODUCIDO: [ 2023-09-30 11:00 ;;; 2023-09-30 13:00 ] ::: Japones ::: (120) ::: Estudiar gramática
+-----LISTADO: 1
+[ 2023-09-30 11:00 ;;; 2023-09-30 13:00 -> 120 ] ::: Japones ::: (120) ::: Estudiar gramática
+-----
+INSTANTE NO VALIDO
+PERIODO NO VALIDO
+NO INTRODUCIDO: [ 2023-09-29 09:00 ;;; 2023-09-30 11:25 ] ::: Ikea ::: (30) ::: Mirar nuevo armario
+-----LISTADO: 1
+[ 2023-09-30 11:00 ;;; 2023-09-30 13:00 -> 120 ] ::: Japones ::: (120) ::: Estudiar gramática
+-----
+PERIODO NO VALIDO
+INTRODUCIDO: [ 2023-09-29 09:00 ;;; 2023-09-30 11:00 ] ::: Ikea ::: (30) ::: Mirar nuevo armario
+****ACTIVIDAD: Okea
+****TOTAL dedicados: 0
+PERIODO NO VALIDO
+-----LISTADO: 2
+[ 2023-09-29 09:00 ;;; 2023-09-30 11:00 -> 1560 ] ::: Ikea ::: (30) ::: Mirar nuevo armario
+[ 2023-09-30 11:00 ;;; 2023-09-30 13:00 -> 120 ] ::: Japones ::: (120) ::: Estudiar gramática
+-----
+NO SOLAPE con: [ 2023-09-29 08:00 ;;; 2023-09-29 09:00 ]
+SOLAPE con: [ 2023-09-29 08:00 ;;; 2023-09-30 09:30 ]
+INSTANTE NO VALIDO
+PERIODO NO VALIDO
+NO INTRODUCIDO: [ 2023-09-30 11:00 ;;; 2023-09-30 13:00 ] ::: Japones ::: (50) ::: Estudiar gramática
+-----LISTADO: 2
+[ 2023-09-29 09:00 ;;; 2023-09-30 11:00 -> 1560 ] ::: Ikea ::: (30) ::: Mirar nuevo armario
+[ 2023-09-30 11:00 ;;; 2023-09-30 13:00 -> 120 ] ::: Japones ::: (120) ::: Estudiar gramática
+-----
+LOCALIZADO: [ 2023-09-29 09:00 ;;; 2023-09-30 11:00 -> 1560 ] ::: Ikea ::: (30) ::: Mirar nuevo armario
+INSTANTE NO VALIDO
+PERIODO NO VALIDO
+BORRADO: [ 2023-09-29 09:00 ;;; 2023-09-30 11:00 ]
+-----LISTADO: 1
+[ 2023-09-30 11:00 ;;; 2023-09-30 13:00 -> 120 ] ::: Japones ::: (120) ::: Estudiar gramática
+-----
+NO SOLAPE con: [ 2023-09-29 08:00 ;;; 2023-09-30 08:59 ]
+INTRODUCIDO: [ 2023-10-25 12:00 ;;; 2023-10-25 13:30 ] ::: Japones ::: (75) ::: Prueba oral
+INTRODUCIDO: [ 2023-10-20 15:00 ;;; 2023-10-21 18:00 ] ::: Excursión ::: (500) ::: Sierra Bética
+-----LISTADO: 3
+[ 2023-09-30 11:00 ;;; 2023-09-30 13:00 -> 120 ] ::: Japones ::: (120) ::: Estudiar gramática
+[ 2023-10-20 15:00 ;;; 2023-10-21 18:00 -> 1620 ] ::: Excursión ::: (500) ::: Sierra Bética
+[ 2023-10-25 12:00 ;;; 2023-10-25 13:30 -> 90 ] ::: Japones ::: (75) ::: Prueba oral
+-----
+NO LOCALIZADO: [ 2024-10-20 15:00 ;;; 2024-10-20 18:00 -> 180 ]
+SOLAPE con: [ 2023-10-20 15:00 ;;; 2023-10-21 18:00 ]
+****ACTIVIDAD: Excursión
+[ 2023-10-20 15:00 ;;; 2023-10-21 18:00 -> 1620 ]
+****TOTAL dedicados: 1620
+CAMBIADO: [ 2023-10-25 12:00 ;;; 2023-10-25 13:30 ] ::: Japones ::: (100) ::: Prueba escrita
+-----LISTADO: 3
+[ 2023-09-30 11:00 ;;; 2023-09-30 13:00 -> 120 ] ::: Japones ::: (120) ::: Estudiar gramática
+[ 2023-10-20 15:00 ;;; 2023-10-21 18:00 -> 1620 ] ::: Excursión ::: (500) ::: Sierra Bética
+[ 2023-10-25 12:00 ;;; 2023-10-25 13:30 -> 90 ] ::: Japones ::: (100) ::: Prueba escrita
+-----
+INTRODUCIDO: [ 2023-10-22 22:00 ;;; 2023-10-22 23:40 ] ::: Japones ::: (100) ::: Prueba escrita
+****ACTIVIDAD: Japones
+[ 2023-09-30 11:00 ;;; 2023-09-30 13:00 -> 120 ]
+[ 2023-10-22 22:00 ;;; 2023-10-22 23:40 -> 100 ]
+[ 2023-10-25 12:00 ;;; 2023-10-25 13:30 -> 90 ]
+****TOTAL dedicados: 310
+CAMBIADO: [ 2023-09-30 11:00 ;;; 2023-09-30 13:00 ] ::: Libros ::: (60) ::: Comprar literatura subversiva
+INTRODUCIDO: [ 2023-10-22 14:00 ;;; 2023-10-22 17:00 ] ::: Comida ::: (140) ::: Negocios
+-----LISTADO: 5
+[ 2023-09-30 11:00 ;;; 2023-09-30 13:00 -> 120 ] ::: Libros ::: (60) ::: Comprar literatura subversiva
+[ 2023-10-20 15:00 ;;; 2023-10-21 18:00 -> 1620 ] ::: Excursión ::: (500) ::: Sierra Bética
+[ 2023-10-22 14:00 ;;; 2023-10-22 17:00 -> 180 ] ::: Comida ::: (140) ::: Negocios
+[ 2023-10-22 22:00 ;;; 2023-10-22 23:40 -> 100 ] ::: Japones ::: (100) ::: Prueba escrita
+[ 2023-10-25 12:00 ;;; 2023-10-25 13:30 -> 90 ] ::: Japones ::: (100) ::: Prueba escrita
+-----
+SOLAPE con: [ 2023-10-22 21:00 ;;; 2023-10-22 23:40 ]
+BORRADO: [ 2023-09-30 11:00 ;;; 2023-09-30 13:00 ]
+INTRODUCIDO: [ 2023-09-30 11:00 ;;; 2023-09-30 13:00 ] ::: Libros ::: (60) ::: Comprar literatura maoísta
+-----LISTADO: 5
+[ 2023-09-30 11:00 ;;; 2023-09-30 13:00 -> 120 ] ::: Libros ::: (60) ::: Comprar literatura maoísta
+[ 2023-10-20 15:00 ;;; 2023-10-21 18:00 -> 1620 ] ::: Excursión ::: (500) ::: Sierra Bética
+[ 2023-10-22 14:00 ;;; 2023-10-22 17:00 -> 180 ] ::: Comida ::: (140) ::: Negocios
+[ 2023-10-22 22:00 ;;; 2023-10-22 23:40 -> 100 ] ::: Japones ::: (100) ::: Prueba escrita
+[ 2023-10-25 12:00 ;;; 2023-10-25 13:30 -> 90 ] ::: Japones ::: (100) ::: Prueba escrita
+-----
+SOLAPE con: [ 2023-10-25 12:30 ;;; 2023-10-25 13:00 ]
+SOLAPE con: [ 2023-10-25 11:00 ;;; 2023-10-25 14:30 ]
+CAMBIADO: [ 2023-10-22 14:00 ;;; 2023-10-22 17:00 ] ::: Comida ::: (50) ::: En soledad
+BORRADO: [ 2023-10-22 22:00 ;;; 2023-10-22 23:40 ]
+PERIODO NO VALIDO
+NO LOCALIZADO: [ 2023-10-21 14:00 ;;; 2023-10-22 17:00 -> 1620 ]
+LOCALIZADO: [ 2023-10-22 14:00 ;;; 2023-10-22 17:00 -> 180 ] ::: Comida ::: (50) ::: En soledad
+-----LISTADO: 4
+[ 2023-09-30 11:00 ;;; 2023-09-30 13:00 -> 120 ] ::: Libros ::: (60) ::: Comprar literatura maoísta
+[ 2023-10-20 15:00 ;;; 2023-10-21 18:00 -> 1620 ] ::: Excursión ::: (500) ::: Sierra Bética
+[ 2023-10-22 14:00 ;;; 2023-10-22 17:00 -> 180 ] ::: Comida ::: (50) ::: En soledad
+[ 2023-10-25 12:00 ;;; 2023-10-25 13:30 -> 90 ] ::: Japones ::: (100) ::: Prueba escrita
+-----
+BORRADO: [ 2023-10-20 15:00 ;;; 2023-10-21 18:00 ]
+****ACTIVIDAD: Excursión
+****TOTAL dedicados: 0
+-----LISTADO: 3
+[ 2023-09-30 11:00 ;;; 2023-09-30 13:00 -> 120 ] ::: Libros ::: (60) ::: Comprar literatura maoísta
+[ 2023-10-22 14:00 ;;; 2023-10-22 17:00 -> 180 ] ::: Comida ::: (50) ::: En soledad
+[ 2023-10-25 12:00 ;;; 2023-10-25 13:30 -> 90 ] ::: Japones ::: (100) ::: Prueba escrita
+-----
+BORRADO: [ 2023-10-22 14:00 ;;; 2023-10-22 17:00 ]
+BORRADO: [ 2023-10-25 12:00 ;;; 2023-10-25 13:30 ]
+BORRADO: [ 2023-09-30 11:00 ;;; 2023-09-30 13:00 ]
+NO BORRADO: [ 2023-09-30 11:00 ;;; 2023-09-30 13:00 ]
+-----LISTADO: 0
+-----
+NO SOLAPE con: [ 2023-10-25 14:00 ;;; 2023-10-25 15:00 ]
+NO LOCALIZADO: [ 2023-10-25 12:00 ;;; 2023-10-25 13:30 -> 90 ]
+NO CAMBIADO: [ 2023-10-25 12:00 ;;; 2023-10-25 13:30 ] ::: Comer ::: (49) ::: Familia
+****ACTIVIDAD: Comer
+****TOTAL dedicados: 0
+-----LISTADO: 0
+-----

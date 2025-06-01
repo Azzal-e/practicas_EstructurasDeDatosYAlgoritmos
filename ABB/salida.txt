@@ -1,0 +1,274 @@
+-----LISTADO: 0
+-----
+PERIODO NO VALIDO
+****ACTIVIDAD: Japones 
+****TOTAL dedicados: 0
+NO LOCALIZADO: [ 2023-09-30 11:00 ;;; 2023-09-30 11:00 ]
+NO CAMBIADO: [ 2023-09-29 11:00 ;;; 2023-09-30 10:59 ] ::: Japones  ::: (120) ::: Estudiar gramática 
+NO SOLAPE con: [ 2023-09-30 11:00 ;;; 2023-09-30 11:00 ]
+INTRODUCIDO: [ 2023-09-30 11:00 ;;; 2023-09-30 13:00 ] ::: Japones ::: (120) ::: Estudiar gramática 
+-----LISTADO: 1
+[ 2023-09-30 11:00 ;;; 2023-09-30 13:00 -> 120 ] ::: Japones ::: (120) ::: Estudiar gramática 
+-----
+SOLAPE con: [ 2023-09-30 11:00 ;;; 2023-09-30 13:00 ]
+NO SOLAPE con: [ 2023-08-30 11:00 ;;; 2023-08-30 13:00 ]
+PERIODO NO VALIDO
+PERIODO NO VALIDO
+NO BORRADO: [ 2023-06-30 11:00 ;;; 2023-06-30 13:00 ]
+INTRODUCIDO: [ 2023-06-29 09:00 ;;; 2023-06-30 11:25 ] ::: Comer ::: (30) ::: Buffet libre hasta que me echen 
+INSTANTE NO VALIDO
+PERIODO NO VALIDO
+-----LISTADO: 2
+[ 2023-06-29 09:00 ;;; 2023-06-30 11:25 -> 1585 ] ::: Comer ::: (30) ::: Buffet libre hasta que me echen 
+[ 2023-09-30 11:00 ;;; 2023-09-30 13:00 -> 120 ] ::: Japones ::: (120) ::: Estudiar gramática 
+-----
+INTRODUCIDO: [ 2023-07-30 23:00 ;;; 2023-07-31 07:00 ] ::: Acampada ::: (30) ::: Con mis nietos 
+-----LISTADO: 3
+[ 2023-06-29 09:00 ;;; 2023-06-30 11:25 -> 1585 ] ::: Comer ::: (30) ::: Buffet libre hasta que me echen 
+[ 2023-07-30 23:00 ;;; 2023-07-31 07:00 -> 480 ] ::: Acampada ::: (30) ::: Con mis nietos 
+[ 2023-09-30 11:00 ;;; 2023-09-30 13:00 -> 120 ] ::: Japones ::: (120) ::: Estudiar gramática 
+-----
+****ACTIVIDAD: Comer
+[ 2023-06-29 09:00 ;;; 2023-06-30 11:25 -> 1585 ]
+****TOTAL dedicados: 1585
+SOLAPE con: [ 2023-07-30 01:00 ;;; 2023-07-31 07:00 ]
+SOLAPE con: [ 2023-06-29 05:00 ;;; 2023-06-30 10:25 ]
+NO SOLAPE con: [ 2023-07-31 07:00 ;;; 2023-07-31 07:00 ]
+PERIODO NO VALIDO
+INTRODUCIDO: [ 2023-12-14 15:00 ;;; 2023-12-14 17:00 ] ::: Libros ::: (45) ::: Libros de autoayuda pagana 
+INSTANTE NO VALIDO
+PERIODO NO VALIDO
+CAMBIADO: [ 2023-09-30 11:00 ;;; 2023-09-30 13:00 ] ::: Japones ::: (30) ::: Estudiar vocabulario 
+LOCALIZADO: [ 2023-09-30 11:00 ;;; 2023-09-30 13:00 -> 120 ] ::: Japones ::: (30) ::: Estudiar vocabulario 
+-----LISTADO: 4
+[ 2023-06-29 09:00 ;;; 2023-06-30 11:25 -> 1585 ] ::: Comer ::: (30) ::: Buffet libre hasta que me echen 
+[ 2023-07-30 23:00 ;;; 2023-07-31 07:00 -> 480 ] ::: Acampada ::: (30) ::: Con mis nietos 
+[ 2023-09-30 11:00 ;;; 2023-09-30 13:00 -> 120 ] ::: Japones ::: (30) ::: Estudiar vocabulario 
+[ 2023-12-14 15:00 ;;; 2023-12-14 17:00 -> 120 ] ::: Libros ::: (45) ::: Libros de autoayuda pagana 
+-----
+INTRODUCIDO: [ 2023-09-30 13:00 ;;; 2023-09-30 14:30 ] ::: Frutería ::: (100) ::: Ayudar a pintar la fachada
+NO INTRODUCIDO: [ 2023-09-30 09:00 ;;; 2023-09-30 14:30 ] ::: Trabajo ::: (210) ::: Alimentar leones 
+-----LISTADO: 5
+[ 2023-06-29 09:00 ;;; 2023-06-30 11:25 -> 1585 ] ::: Comer ::: (30) ::: Buffet libre hasta que me echen 
+[ 2023-07-30 23:00 ;;; 2023-07-31 07:00 -> 480 ] ::: Acampada ::: (30) ::: Con mis nietos 
+[ 2023-09-30 11:00 ;;; 2023-09-30 13:00 -> 120 ] ::: Japones ::: (30) ::: Estudiar vocabulario 
+[ 2023-09-30 13:00 ;;; 2023-09-30 14:30 -> 90 ] ::: Frutería ::: (100) ::: Ayudar a pintar la fachada
+[ 2023-12-14 15:00 ;;; 2023-12-14 17:00 -> 120 ] ::: Libros ::: (45) ::: Libros de autoayuda pagana 
+-----
+BORRADO: [ 2023-09-30 13:00 ;;; 2023-09-30 14:30 ]
+-----LISTADO: 4
+[ 2023-06-29 09:00 ;;; 2023-06-30 11:25 -> 1585 ] ::: Comer ::: (30) ::: Buffet libre hasta que me echen 
+[ 2023-07-30 23:00 ;;; 2023-07-31 07:00 -> 480 ] ::: Acampada ::: (30) ::: Con mis nietos 
+[ 2023-09-30 11:00 ;;; 2023-09-30 13:00 -> 120 ] ::: Japones ::: (30) ::: Estudiar vocabulario 
+[ 2023-12-14 15:00 ;;; 2023-12-14 17:00 -> 120 ] ::: Libros ::: (45) ::: Libros de autoayuda pagana 
+-----
+NO SOLAPE con: [ 2023-09-30 13:00 ;;; 2023-09-30 17:00 ]
+SOLAPE con: [ 2023-06-29 09:00 ;;; 2023-06-30 11:25 ]
+CAMBIADO: [ 2023-06-29 09:00 ;;; 2023-06-30 11:25 ] ::: Comer ::: (30) ::: Solo dátiles 
+LOCALIZADO: [ 2023-06-29 09:00 ;;; 2023-06-30 11:25 -> 1585 ] ::: Comer ::: (30) ::: Solo dátiles 
+PERIODO NO VALIDO
+INTRODUCIDO: [ 2024-01-01 00:59 ;;; 2024-01-01 01:00 ] ::: Campanadas ::: (1) ::: Campanadas en Canarias
+-----LISTADO: 5
+[ 2023-06-29 09:00 ;;; 2023-06-30 11:25 -> 1585 ] ::: Comer ::: (30) ::: Solo dátiles 
+[ 2023-07-30 23:00 ;;; 2023-07-31 07:00 -> 480 ] ::: Acampada ::: (30) ::: Con mis nietos 
+[ 2023-09-30 11:00 ;;; 2023-09-30 13:00 -> 120 ] ::: Japones ::: (30) ::: Estudiar vocabulario 
+[ 2023-12-14 15:00 ;;; 2023-12-14 17:00 -> 120 ] ::: Libros ::: (45) ::: Libros de autoayuda pagana 
+[ 2024-01-01 00:59 ;;; 2024-01-01 01:00 -> 1 ] ::: Campanadas ::: (1) ::: Campanadas en Canarias
+-----
+****ACTIVIDAD: Frutería
+****TOTAL dedicados: 0
+LOCALIZADO: [ 2023-07-30 23:00 ;;; 2023-07-31 07:00 -> 480 ] ::: Acampada ::: (30) ::: Con mis nietos 
+NO LOCALIZADO: [ 2024-02-29 23:00 ;;; 2024-02-29 23:30 ]
+NO LOCALIZADO: [ 2023-07-30 23:30 ;;; 2023-07-31 07:00 ]
+INTRODUCIDO: [ 2023-12-20 12:00 ;;; 2023-12-20 13:00 ] ::: Viaje ::: (76) ::: A Tenerife
+INTRODUCIDO: [ 2023-12-16 20:00 ;;; 2023-12-16 22:00 ] ::: Cine ::: (180) ::: Ver la nueva de Yorgos Lanthimos
+INTRODUCIDO: [ 2023-12-24 15:00 ;;; 2023-12-25 13:00 ] ::: Catarsis ::: (500) ::: Escribir hasta la saciedad
+-----LISTADO: 8
+[ 2023-06-29 09:00 ;;; 2023-06-30 11:25 -> 1585 ] ::: Comer ::: (30) ::: Solo dátiles 
+[ 2023-07-30 23:00 ;;; 2023-07-31 07:00 -> 480 ] ::: Acampada ::: (30) ::: Con mis nietos 
+[ 2023-09-30 11:00 ;;; 2023-09-30 13:00 -> 120 ] ::: Japones ::: (30) ::: Estudiar vocabulario 
+[ 2023-12-14 15:00 ;;; 2023-12-14 17:00 -> 120 ] ::: Libros ::: (45) ::: Libros de autoayuda pagana 
+[ 2023-12-16 20:00 ;;; 2023-12-16 22:00 -> 120 ] ::: Cine ::: (180) ::: Ver la nueva de Yorgos Lanthimos
+[ 2023-12-20 12:00 ;;; 2023-12-20 13:00 -> 60 ] ::: Viaje ::: (76) ::: A Tenerife
+[ 2023-12-24 15:00 ;;; 2023-12-25 13:00 -> 1320 ] ::: Catarsis ::: (500) ::: Escribir hasta la saciedad
+[ 2024-01-01 00:59 ;;; 2024-01-01 01:00 -> 1 ] ::: Campanadas ::: (1) ::: Campanadas en Canarias
+-----
+LOCALIZADO: [ 2023-12-24 15:00 ;;; 2023-12-25 13:00 -> 1320 ] ::: Catarsis ::: (500) ::: Escribir hasta la saciedad
+LOCALIZADO: [ 2023-12-16 20:00 ;;; 2023-12-16 22:00 -> 120 ] ::: Cine ::: (180) ::: Ver la nueva de Yorgos Lanthimos
+NO LOCALIZADO: [ 2023-12-16 20:00 ;;; 2023-12-16 22:01 ]
+CAMBIADO: [ 2023-09-30 11:00 ;;; 2023-09-30 13:00 ] ::: Cine ::: (30) ::: Capítulo de Barry
+****ACTIVIDAD: Cine
+[ 2023-09-30 11:00 ;;; 2023-09-30 13:00 -> 120 ]
+[ 2023-12-16 20:00 ;;; 2023-12-16 22:00 -> 120 ]
+****TOTAL dedicados: 240
+BORRADO: [ 2024-01-01 00:59 ;;; 2024-01-01 01:00 ]
+-----LISTADO: 7
+[ 2023-06-29 09:00 ;;; 2023-06-30 11:25 -> 1585 ] ::: Comer ::: (30) ::: Solo dátiles 
+[ 2023-07-30 23:00 ;;; 2023-07-31 07:00 -> 480 ] ::: Acampada ::: (30) ::: Con mis nietos 
+[ 2023-09-30 11:00 ;;; 2023-09-30 13:00 -> 120 ] ::: Cine ::: (30) ::: Capítulo de Barry
+[ 2023-12-14 15:00 ;;; 2023-12-14 17:00 -> 120 ] ::: Libros ::: (45) ::: Libros de autoayuda pagana 
+[ 2023-12-16 20:00 ;;; 2023-12-16 22:00 -> 120 ] ::: Cine ::: (180) ::: Ver la nueva de Yorgos Lanthimos
+[ 2023-12-20 12:00 ;;; 2023-12-20 13:00 -> 60 ] ::: Viaje ::: (76) ::: A Tenerife
+[ 2023-12-24 15:00 ;;; 2023-12-25 13:00 -> 1320 ] ::: Catarsis ::: (500) ::: Escribir hasta la saciedad
+-----
+LOCALIZADO: [ 2023-12-24 15:00 ;;; 2023-12-25 13:00 -> 1320 ] ::: Catarsis ::: (500) ::: Escribir hasta la saciedad
+****ACTIVIDAD: Campanadas
+****TOTAL dedicados: 0
+NO SOLAPE con: [ 2024-01-01 00:59 ;;; 2024-01-01 01:00 ]
+SOLAPE con: [ 2023-12-16 19:00 ;;; 2023-12-16 23:00 ]
+INTRODUCIDO: [ 2020-03-15 15:00 ;;; 2020-03-15 16:00 ] ::: Viaje ::: (525600) ::: Remediar errores del pasado
+INTRODUCIDO: [ 2023-05-25 21:00 ;;; 2023-05-25 23:00 ] ::: Cine ::: (145) ::: Ver Donnie Darko
+****ACTIVIDAD: Cine
+[ 2023-05-25 21:00 ;;; 2023-05-25 23:00 -> 120 ]
+[ 2023-09-30 11:00 ;;; 2023-09-30 13:00 -> 120 ]
+[ 2023-12-16 20:00 ;;; 2023-12-16 22:00 -> 120 ]
+****TOTAL dedicados: 360
+****ACTIVIDAD: Viaje
+[ 2020-03-15 15:00 ;;; 2020-03-15 16:00 -> 60 ]
+[ 2023-12-20 12:00 ;;; 2023-12-20 13:00 -> 60 ]
+****TOTAL dedicados: 120
+-----LISTADO: 9
+[ 2020-03-15 15:00 ;;; 2020-03-15 16:00 -> 60 ] ::: Viaje ::: (525600) ::: Remediar errores del pasado
+[ 2023-05-25 21:00 ;;; 2023-05-25 23:00 -> 120 ] ::: Cine ::: (145) ::: Ver Donnie Darko
+[ 2023-06-29 09:00 ;;; 2023-06-30 11:25 -> 1585 ] ::: Comer ::: (30) ::: Solo dátiles 
+[ 2023-07-30 23:00 ;;; 2023-07-31 07:00 -> 480 ] ::: Acampada ::: (30) ::: Con mis nietos 
+[ 2023-09-30 11:00 ;;; 2023-09-30 13:00 -> 120 ] ::: Cine ::: (30) ::: Capítulo de Barry
+[ 2023-12-14 15:00 ;;; 2023-12-14 17:00 -> 120 ] ::: Libros ::: (45) ::: Libros de autoayuda pagana 
+[ 2023-12-16 20:00 ;;; 2023-12-16 22:00 -> 120 ] ::: Cine ::: (180) ::: Ver la nueva de Yorgos Lanthimos
+[ 2023-12-20 12:00 ;;; 2023-12-20 13:00 -> 60 ] ::: Viaje ::: (76) ::: A Tenerife
+[ 2023-12-24 15:00 ;;; 2023-12-25 13:00 -> 1320 ] ::: Catarsis ::: (500) ::: Escribir hasta la saciedad
+-----
+SOLAPE con: [ 2020-03-15 15:00 ;;; 2020-03-15 15:30 ]
+NO SOLAPE con: [ 2023-12-24 14:00 ;;; 2023-12-24 15:00 ]
+SOLAPE con: [ 2023-05-25 22:00 ;;; 2023-05-25 23:40 ]
+NO INTRODUCIDO: [ 2023-06-29 07:00 ;;; 2023-06-29 11:00 ] ::: Caminar ::: (98) ::: Solo por el bosque
+NO INTRODUCIDO: [ 2023-12-20 12:30 ;;; 2023-12-20 14:00 ] ::: Caminar ::: (100) ::: Junto con la luna
+PERIODO NO VALIDO
+INTRODUCIDO: [ 2023-08-13 07:00 ;;; 2023-08-13 11:00 ] ::: Caminar ::: (98) ::: Acompañado por el metro
+-----LISTADO: 10
+[ 2020-03-15 15:00 ;;; 2020-03-15 16:00 -> 60 ] ::: Viaje ::: (525600) ::: Remediar errores del pasado
+[ 2023-05-25 21:00 ;;; 2023-05-25 23:00 -> 120 ] ::: Cine ::: (145) ::: Ver Donnie Darko
+[ 2023-06-29 09:00 ;;; 2023-06-30 11:25 -> 1585 ] ::: Comer ::: (30) ::: Solo dátiles 
+[ 2023-07-30 23:00 ;;; 2023-07-31 07:00 -> 480 ] ::: Acampada ::: (30) ::: Con mis nietos 
+[ 2023-08-13 07:00 ;;; 2023-08-13 11:00 -> 240 ] ::: Caminar ::: (98) ::: Acompañado por el metro
+[ 2023-09-30 11:00 ;;; 2023-09-30 13:00 -> 120 ] ::: Cine ::: (30) ::: Capítulo de Barry
+[ 2023-12-14 15:00 ;;; 2023-12-14 17:00 -> 120 ] ::: Libros ::: (45) ::: Libros de autoayuda pagana 
+[ 2023-12-16 20:00 ;;; 2023-12-16 22:00 -> 120 ] ::: Cine ::: (180) ::: Ver la nueva de Yorgos Lanthimos
+[ 2023-12-20 12:00 ;;; 2023-12-20 13:00 -> 60 ] ::: Viaje ::: (76) ::: A Tenerife
+[ 2023-12-24 15:00 ;;; 2023-12-25 13:00 -> 1320 ] ::: Catarsis ::: (500) ::: Escribir hasta la saciedad
+-----
+****ACTIVIDAD: Caminar
+[ 2023-08-13 07:00 ;;; 2023-08-13 11:00 -> 240 ]
+****TOTAL dedicados: 240
+INTRODUCIDO: [ 2023-08-13 20:00 ;;; 2023-08-13 20:15 ] ::: Cine ::: (15) ::: Película hasta dormirse
+****ACTIVIDAD: Cine
+[ 2023-05-25 21:00 ;;; 2023-05-25 23:00 -> 120 ]
+[ 2023-08-13 20:00 ;;; 2023-08-13 20:15 -> 15 ]
+[ 2023-09-30 11:00 ;;; 2023-09-30 13:00 -> 120 ]
+[ 2023-12-16 20:00 ;;; 2023-12-16 22:00 -> 120 ]
+****TOTAL dedicados: 375
+-----LISTADO: 11
+[ 2020-03-15 15:00 ;;; 2020-03-15 16:00 -> 60 ] ::: Viaje ::: (525600) ::: Remediar errores del pasado
+[ 2023-05-25 21:00 ;;; 2023-05-25 23:00 -> 120 ] ::: Cine ::: (145) ::: Ver Donnie Darko
+[ 2023-06-29 09:00 ;;; 2023-06-30 11:25 -> 1585 ] ::: Comer ::: (30) ::: Solo dátiles 
+[ 2023-07-30 23:00 ;;; 2023-07-31 07:00 -> 480 ] ::: Acampada ::: (30) ::: Con mis nietos 
+[ 2023-08-13 07:00 ;;; 2023-08-13 11:00 -> 240 ] ::: Caminar ::: (98) ::: Acompañado por el metro
+[ 2023-08-13 20:00 ;;; 2023-08-13 20:15 -> 15 ] ::: Cine ::: (15) ::: Película hasta dormirse
+[ 2023-09-30 11:00 ;;; 2023-09-30 13:00 -> 120 ] ::: Cine ::: (30) ::: Capítulo de Barry
+[ 2023-12-14 15:00 ;;; 2023-12-14 17:00 -> 120 ] ::: Libros ::: (45) ::: Libros de autoayuda pagana 
+[ 2023-12-16 20:00 ;;; 2023-12-16 22:00 -> 120 ] ::: Cine ::: (180) ::: Ver la nueva de Yorgos Lanthimos
+[ 2023-12-20 12:00 ;;; 2023-12-20 13:00 -> 60 ] ::: Viaje ::: (76) ::: A Tenerife
+[ 2023-12-24 15:00 ;;; 2023-12-25 13:00 -> 1320 ] ::: Catarsis ::: (500) ::: Escribir hasta la saciedad
+-----
+BORRADO: [ 2023-09-30 11:00 ;;; 2023-09-30 13:00 ]
+****ACTIVIDAD: Cine
+[ 2023-05-25 21:00 ;;; 2023-05-25 23:00 -> 120 ]
+[ 2023-08-13 20:00 ;;; 2023-08-13 20:15 -> 15 ]
+[ 2023-12-16 20:00 ;;; 2023-12-16 22:00 -> 120 ]
+****TOTAL dedicados: 255
+LOCALIZADO: [ 2023-08-13 20:00 ;;; 2023-08-13 20:15 -> 15 ] ::: Cine ::: (15) ::: Película hasta dormirse
+INTRODUCIDO: [ 2023-08-13 17:00 ;;; 2023-08-13 18:00 ] ::: Estudio ::: (97) ::: Por devoción y vagueza
+CAMBIADO: [ 2023-08-13 17:00 ;;; 2023-08-13 18:00 ] ::: Estudio ::: (97) ::: Solo por devoción
+BORRADO: [ 2023-12-20 12:00 ;;; 2023-12-20 13:00 ]
+****ACTIVIDAD: Viaje
+[ 2020-03-15 15:00 ;;; 2020-03-15 16:00 -> 60 ]
+****TOTAL dedicados: 60
+-----LISTADO: 10
+[ 2020-03-15 15:00 ;;; 2020-03-15 16:00 -> 60 ] ::: Viaje ::: (525600) ::: Remediar errores del pasado
+[ 2023-05-25 21:00 ;;; 2023-05-25 23:00 -> 120 ] ::: Cine ::: (145) ::: Ver Donnie Darko
+[ 2023-06-29 09:00 ;;; 2023-06-30 11:25 -> 1585 ] ::: Comer ::: (30) ::: Solo dátiles 
+[ 2023-07-30 23:00 ;;; 2023-07-31 07:00 -> 480 ] ::: Acampada ::: (30) ::: Con mis nietos 
+[ 2023-08-13 07:00 ;;; 2023-08-13 11:00 -> 240 ] ::: Caminar ::: (98) ::: Acompañado por el metro
+[ 2023-08-13 17:00 ;;; 2023-08-13 18:00 -> 60 ] ::: Estudio ::: (97) ::: Solo por devoción
+[ 2023-08-13 20:00 ;;; 2023-08-13 20:15 -> 15 ] ::: Cine ::: (15) ::: Película hasta dormirse
+[ 2023-12-14 15:00 ;;; 2023-12-14 17:00 -> 120 ] ::: Libros ::: (45) ::: Libros de autoayuda pagana 
+[ 2023-12-16 20:00 ;;; 2023-12-16 22:00 -> 120 ] ::: Cine ::: (180) ::: Ver la nueva de Yorgos Lanthimos
+[ 2023-12-24 15:00 ;;; 2023-12-25 13:00 -> 1320 ] ::: Catarsis ::: (500) ::: Escribir hasta la saciedad
+-----
+SOLAPE con: [ 2023-12-16 21:00 ;;; 2023-12-16 23:00 ]
+NO SOLAPE con: [ 2023-12-16 20:00 ;;; 2023-12-16 20:00 ]
+LOCALIZADO: [ 2023-12-16 20:00 ;;; 2023-12-16 22:00 -> 120 ] ::: Cine ::: (180) ::: Ver la nueva de Yorgos Lanthimos
+BORRADO: [ 2023-12-24 15:00 ;;; 2023-12-25 13:00 ]
+NO BORRADO: [ 2023-12-24 15:00 ;;; 2023-12-25 13:00 ]
+SOLAPE con: [ 2023-12-16 20:00 ;;; 2023-12-16 21:00 ]
+CAMBIADO: [ 2023-12-16 20:00 ;;; 2023-12-16 22:00 ] ::: Merienda ::: (35) ::: Tostada con arándanos
+LOCALIZADO: [ 2023-12-16 20:00 ;;; 2023-12-16 22:00 -> 120 ] ::: Merienda ::: (35) ::: Tostada con arándanos
+BORRADO: [ 2023-12-16 20:00 ;;; 2023-12-16 22:00 ]
+-----LISTADO: 8
+[ 2020-03-15 15:00 ;;; 2020-03-15 16:00 -> 60 ] ::: Viaje ::: (525600) ::: Remediar errores del pasado
+[ 2023-05-25 21:00 ;;; 2023-05-25 23:00 -> 120 ] ::: Cine ::: (145) ::: Ver Donnie Darko
+[ 2023-06-29 09:00 ;;; 2023-06-30 11:25 -> 1585 ] ::: Comer ::: (30) ::: Solo dátiles 
+[ 2023-07-30 23:00 ;;; 2023-07-31 07:00 -> 480 ] ::: Acampada ::: (30) ::: Con mis nietos 
+[ 2023-08-13 07:00 ;;; 2023-08-13 11:00 -> 240 ] ::: Caminar ::: (98) ::: Acompañado por el metro
+[ 2023-08-13 17:00 ;;; 2023-08-13 18:00 -> 60 ] ::: Estudio ::: (97) ::: Solo por devoción
+[ 2023-08-13 20:00 ;;; 2023-08-13 20:15 -> 15 ] ::: Cine ::: (15) ::: Película hasta dormirse
+[ 2023-12-14 15:00 ;;; 2023-12-14 17:00 -> 120 ] ::: Libros ::: (45) ::: Libros de autoayuda pagana 
+-----
+NO LOCALIZADO: [ 2023-12-16 20:00 ;;; 2023-12-16 22:00 ]
+****ACTIVIDAD: Viaje
+[ 2020-03-15 15:00 ;;; 2020-03-15 16:00 -> 60 ]
+****TOTAL dedicados: 60
+PERIODO NO VALIDO
+BORRADO: [ 2020-03-15 15:00 ;;; 2020-03-15 16:00 ]
+****ACTIVIDAD: Viaje
+****TOTAL dedicados: 0
+SOLAPE con: [ 2023-05-25 22:00 ;;; 2023-05-25 22:00 ]
+-----LISTADO: 7
+[ 2023-05-25 21:00 ;;; 2023-05-25 23:00 -> 120 ] ::: Cine ::: (145) ::: Ver Donnie Darko
+[ 2023-06-29 09:00 ;;; 2023-06-30 11:25 -> 1585 ] ::: Comer ::: (30) ::: Solo dátiles 
+[ 2023-07-30 23:00 ;;; 2023-07-31 07:00 -> 480 ] ::: Acampada ::: (30) ::: Con mis nietos 
+[ 2023-08-13 07:00 ;;; 2023-08-13 11:00 -> 240 ] ::: Caminar ::: (98) ::: Acompañado por el metro
+[ 2023-08-13 17:00 ;;; 2023-08-13 18:00 -> 60 ] ::: Estudio ::: (97) ::: Solo por devoción
+[ 2023-08-13 20:00 ;;; 2023-08-13 20:15 -> 15 ] ::: Cine ::: (15) ::: Película hasta dormirse
+[ 2023-12-14 15:00 ;;; 2023-12-14 17:00 -> 120 ] ::: Libros ::: (45) ::: Libros de autoayuda pagana 
+-----
+BORRADO: [ 2023-07-30 23:00 ;;; 2023-07-31 07:00 ]
+BORRADO: [ 2023-08-13 17:00 ;;; 2023-08-13 18:00 ]
+BORRADO: [ 2023-06-29 09:00 ;;; 2023-06-30 11:25 ]
+****ACTIVIDAD: Comer
+****TOTAL dedicados: 0
+-----LISTADO: 4
+[ 2023-05-25 21:00 ;;; 2023-05-25 23:00 -> 120 ] ::: Cine ::: (145) ::: Ver Donnie Darko
+[ 2023-08-13 07:00 ;;; 2023-08-13 11:00 -> 240 ] ::: Caminar ::: (98) ::: Acompañado por el metro
+[ 2023-08-13 20:00 ;;; 2023-08-13 20:15 -> 15 ] ::: Cine ::: (15) ::: Película hasta dormirse
+[ 2023-12-14 15:00 ;;; 2023-12-14 17:00 -> 120 ] ::: Libros ::: (45) ::: Libros de autoayuda pagana 
+-----
+BORRADO: [ 2023-08-13 07:00 ;;; 2023-08-13 11:00 ]
+BORRADO: [ 2023-08-13 20:00 ;;; 2023-08-13 20:15 ]
+-----LISTADO: 2
+[ 2023-05-25 21:00 ;;; 2023-05-25 23:00 -> 120 ] ::: Cine ::: (145) ::: Ver Donnie Darko
+[ 2023-12-14 15:00 ;;; 2023-12-14 17:00 -> 120 ] ::: Libros ::: (45) ::: Libros de autoayuda pagana 
+-----
+SOLAPE con: [ 2023-12-14 15:20 ;;; 2023-12-14 17:20 ]
+BORRADO: [ 2023-05-25 21:00 ;;; 2023-05-25 23:00 ]
+SOLAPE con: [ 2023-12-14 15:20 ;;; 2023-12-14 17:20 ]
+BORRADO: [ 2023-12-14 15:00 ;;; 2023-12-14 17:00 ]
+-----LISTADO: 0
+-----
+****ACTIVIDAD: Japones 
+****TOTAL dedicados: 0
+NO LOCALIZADO: [ 2023-09-30 11:00 ;;; 2023-09-30 11:00 ]
+NO CAMBIADO: [ 2023-09-29 11:00 ;;; 2023-09-30 10:59 ] ::: Japones  ::: (120) ::: Estudiar gramática 
+NO BORRADO: [ 2023-08-14 13:00 ;;; 2023-08-14 14:00 ]
+-----LISTADO: 0
+-----
